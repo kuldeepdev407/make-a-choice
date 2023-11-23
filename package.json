@@ -1,5 +1,5 @@
 {
-  "name": "make-a-choice",
+  "name": "make-me-a-choice",
   "version": "1.0.0",
   "description": "CLI application to make personal choice in life as Web Developer",
   "main": "bin/index.js",
@@ -7,10 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin":{
-    "make-a-choice":"bin/index.js"
+    "make-me-a-choice":"bin/index.js"
   },
   "keywords": [
-    "make-a-choice",
+    "make-me-a-choice",
     "webdevlife",
     "choice-made-easy"
   ],
