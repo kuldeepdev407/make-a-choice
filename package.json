@@ -1,0 +1,19 @@
+{
+  "name": "make-a-choice",
+  "version": "1.0.0",
+  "description": "CLI application to make personal choice in life as Web Developer",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "make-a-choice":"bin/index.js"
+  },
+  "keywords": [
+    "make-a-choice",
+    "webdevlife",
+    "choice-made-easy"
+  ],
+  "author": "Kuldeep Singh",
+  "license": "MIT"
+}
