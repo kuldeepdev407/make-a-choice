@@ -1,8 +1,8 @@
-# make-a-choice
+# make-me-a-choice
 It is a cli node application for making easy for you to make choices using this application
 
 ## How to use
-Just run `npx make-a-choice`
+Just run `npx make-me-a-choice`
 
 ## Output
 ```
