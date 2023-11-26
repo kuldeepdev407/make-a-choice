@@ -17,6 +17,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
+  "repository": "https://github.com/kuldeepdev407/make-me-a-choice",
   "author": "kuldeepdev407",
   "license": "MIT"
 }
