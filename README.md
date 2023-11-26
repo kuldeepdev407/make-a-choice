@@ -45,7 +45,7 @@ Making your choice...
 .
 ----- LORD JS & Time choice ----
 play
-Javascript has chosen play as you choice
+Javascript has chosen play as ou choice
 
 No one is liable for the choice you made with this program !! 😅
 ```
