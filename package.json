@@ -15,7 +15,7 @@
     "choice-made-easy"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org"
   },
   "repository": "https://github.com/kuldeepdev407/make-me-a-choice",
   "author": "kuldeepdev407",
